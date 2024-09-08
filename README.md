@@ -6,6 +6,8 @@
 
 ![KELER GitHub stats](https://github-readme-stats.vercel.app/api?username=KELER147&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KELER147)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias do Dia a Dia 💻
 
 <div style="display: inline_block"><br/>
@@ -17,4 +19,7 @@
   <img aling="center" alt="Phyton"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />    
 </div><br/>
 
+
 Sou entusiasta da tecnologia com formação em Técnico em Informática pela Etec e atualmente estudando Análise e Desenvolvimento de Sistemas na FATEC Ourinhos, além de Auxiliar de Linha de Produção no SENAI. Estou sempre em busca de novos desafios e oportunidades na área de tecnologia e automação.
+
+
