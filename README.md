@@ -1,6 +1,6 @@
 ### ÓLa! Sou o leonardo 👋
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-keler-748ba1282)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardokeler)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardokeler_?igsh=MTBmYTFvZmg0dHFqMQ%3D%3D&utm_source=qr)
 
