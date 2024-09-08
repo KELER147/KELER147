@@ -6,7 +6,7 @@
 
 ![KELER GitHub stats](https://github-readme-stats.vercel.app/api?username=KELER147&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KELER147)](https://github.com/KELER147/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KELER147)
 
 ## Tecnologias do Dia a Dia 💻
 
