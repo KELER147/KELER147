@@ -1,6 +1,6 @@
 
 ### 🧑‍💻 Leonardo Henrique Keler
-* **Perfil** = leonardo Keler, 19, Cândido Mota-SP
+* **Perfil** = leonardo Keler, 20, Cândido Mota-SP
 * **Formação** = Análise e Desenvolvimento de Sistemas (ADS) (Cursando) - Fatec Ourinhos
 * **Experiência Anterior** = Estagiário de TI | AGI Brasil
 * **Stack Principal** = **JAVA**, **C**, **JavaFX**, **MongoDB**, **MySQL**, **SPRING Boot**
